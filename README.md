@@ -47,3 +47,5 @@ that explains the project’s goals in a simple way, and featuring some examples
    pnpm run dev
    ```
 3. Open your browser and go to http://localhost:3000
+
+Marcelle
